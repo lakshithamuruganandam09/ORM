@@ -39,7 +39,7 @@ Execute Django admin using localhost and create details for 10 entries
 
 
 ## OUTPUT
-
+![alt text](image.png)
 
 
 ## RESULT
